@@ -13,7 +13,7 @@ Hello, I'm Matthew, I see you've stumbled across my Github profile, please enjoy
 
 * Currently I don't have anything in the works, but I am maintaining my skills in Python/R in hopes of doing data science after uni. I am open to internships/placements over the next 2/3 months before uni starts again and I dive headfirst into my dissertation and masters thesis.
 
-* In the past I have worked on a particle physics placement at the University of Birmingham, as well as copius piecesof coursework in R, Java and Python. I also have some experience in finance as the treasurer of my cricket club.
+* In the past I have worked on a particle physics placement at the University of Birmingham, as well as copius pieces of coursework in R, Java and Python. I also have some experience in finance as the treasurer of my cricket club.
 
 ## Contact
 

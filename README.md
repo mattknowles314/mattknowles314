@@ -11,8 +11,7 @@ Hello, I'm Matthew, I see you've stumbled across my Github profile, please enjoy
 
 ## What do I do?
 
-* 🦠  At the minute I am working on a project in the Department of Biology, University of York. For more information see the repo bspi2020.
-* 🎓  I am about to start my third year of university, my focus is pure maths, with some applied maths and a bit of stats thrown in for good measure. Current modules:
+* 🎓  I am in my third year of university, my focus is pure maths, with some applied maths and a bit of stats thrown in for good measure. Current modules:
   + Formal Languages and Automata
   + Stastical Pattern Recognition
   + Number Theory

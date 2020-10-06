@@ -12,7 +12,7 @@ Hello, I'm Matthew, I see you've stumbled across my Github profile, please enjoy
 ## What do I do?
 
 * 🎓  I am in my third year of university, my focus is pure maths, with some applied maths and a bit of stats thrown in for good measure. Current modules:
-  + Formal Languages and Automata
+  + Bayesian Statistics
   + Stastical Pattern Recognition
   + Number Theory
   + Algebraic Number Theory

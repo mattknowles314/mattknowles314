@@ -11,12 +11,12 @@ Hello, I'm Matthew, I see you've stumbled across my Github profile, please enjoy
 
 ## What do I do?
 
-* 🎓  I am in my third year of university, my focus is pure maths, with some applied maths and a bit of stats thrown in for good measure. Current modules:
-  + Bayesian Statistics
-  + Stastical Pattern Recognition
-  + Number Theory
-  + Algebraic Number Theory
-  + Groups and Actions
+* 🎓  I am in my third year of university, my focus is pure maths, with some stats thrown in for good measure. Current modules:
+  + Practical Data Science with R
+  + Linear Optimisation and Game Theory
+  + Galois Theory
+  + Topology
+  + Cryptography
   
 ## What am I good at?
 

@@ -4,7 +4,7 @@ Hello, I'm Matthew, I see you've stumbled across my Github profile, please enjoy
 
 ## Who am I? 
 
-* 🎓  I'm currently a Mathematics undergraduate at the University of York in the UK. I am primarily focusing on Algebra and Number Theory!
+* 🎓  I'm currently a Mathematics undergraduate at the University of York in the UK. I am primarily focusing on Financial Mathematics!
 * 📚  Languages are a huge part of my life, I speak English, Norwegian, German, Russian as well as some Mandarin Chinese and Urdu.
 * 🖥  My interests in Computing are operating systems, complexity theory and applications of machine learning/big data to problems in medicine and finance.
 * 🏏  Outside of academia I play a lot of sport, I run long distance, I play cricket at quite a high standard, and practice taekwondo and hockey at university.

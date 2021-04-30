@@ -18,6 +18,7 @@ Hello, I'm Matthew, I see you've stumbled across my Github profile, please enjoy
   + Topology
   + Cryptography
 
+* 💻 Over summer of 2021, I will be undertaking a placement working on developing efficient algorithms for calculating the convex hull of a set.
 * 🎓 Next year, for my master's degree, I will be focusing solely on Financial Mathematics
   
 ## What am I good at?

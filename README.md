@@ -6,20 +6,14 @@ Hello, I'm Matthew, I see you've stumbled across my Github profile, please enjoy
 
 * 🎓  I'm currently a Mathematics undergraduate at the University of York in the UK. I am primarily focusing on Financial Mathematics!
 * 📚  Languages are a huge part of my life, I speak English, Norwegian, German and Russian as well as some Mandarin Chinese and Urdu.
-* 🖥  My interests in Computing are operating systems, complexity theory and applications of machine learning/big data to problems in finance and medicine.
+* 🖥  My interests in Computing are algorithms, complexity theory and applications of machine learning/big data to problems in finance and medicine.
 * 🏏  Outside of academia I play a lot of sport, I play representative cricket for my university, as well as captaining my college's hockey team and I am currently training for a sub 3:30 marathon.
 
 ## What do I do?
 
-* 🎓  I am in my third year of university, my focus is so far has been pure maths, with some stats thrown in for good measure. Current modules:
-  + Practical Data Science with R
-  + Linear Optimisation and Game Theory
-  + Galois Theory
-  + Topology
-  + Cryptography
+* 🖥  I am currently on placement in the Financial Mathematics group at my university. 
+* 🎓  I have just finished my 3rd year of university. For my 4th year I will be focusing on mathematical finance.
 
-* 💻 Over summer of 2021, I will be undertaking a placement working on developing efficient algorithms for calculating the convex hull of a set.
-* 🎓 Next year, for my master's degree, I will be focusing solely on Financial Mathematics
   
 ## What am I good at?
 

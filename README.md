@@ -4,7 +4,7 @@ Hello, I'm Matthew, I see you've stumbled across my Github profile, please enjoy
 
 ## Who am I? 
 
-* 🎓  I'm currently a Mathematics undergraduate at the University of York in the UK. 
+* 🎓  I'm currently a Masters student in Mathematics at the University of York in the UK. 
 * 📚  Languages are a huge part of my life, I speak English, Norwegian, German and Russian as well as some Mandarin Chinese and Urdu.
 * 🖥  My interests in Computing are algorithms, complexity theory and applications of machine learning/big data to problems in finance and medicine.
 * 🏏  Outside of academia I play a lot of sport, I play representative cricket for my university, as well as captaining my college's hockey team and I am currently training for a sub 3:30 marathon.
@@ -12,6 +12,7 @@ Hello, I'm Matthew, I see you've stumbled across my Github profile, please enjoy
 ## What do I do?
 
 * 🎓 I am finishing up my masters degree at UoY, specialising in Financial Mathematics.
+* 🧬 In June, I will be joining OPEN Health as a statistical analyst.
 * 🖥  I have spent this summer working on implementing financial models for pricing options contracts
 
 ## What am I good at?

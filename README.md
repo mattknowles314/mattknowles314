@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Matthew, I see you've stumbled across my Github profile, please enjoy your stay.
+Hello, I'm Matthew.
 
 ## Who am I? 
 

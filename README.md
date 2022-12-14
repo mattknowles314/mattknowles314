@@ -4,7 +4,7 @@ Hello, I'm Matthew.
 
 ## Who am I? 
 
-* I am a statistician and avid programmer from Birmingham in the UK, although I now live and work in York! 
+* I am a statistician and avid programmer from Birmingham in the UK
 * My day-job involves a lot of statistics, but my background is general Mathematics. I still enjoy learning about other parts
   of pure and applied maths.
 * I am a keen sportsman, competing in various distance running disciplines and cricket.

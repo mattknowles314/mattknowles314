@@ -11,7 +11,7 @@ Hello, I'm Matthew.
 
 ## What do I do?
 
-* 🎓 I am stuying for an MSc in Medical Statics @ Uni of Sheffield, and have an MMath in Mathematics from the University of York
+* 🎓 I am stuying for an MSc in Medical Statistics @ Uni of Sheffield, and have an MMath in Mathematics from the University of York
 * 🧬 I am a statistician @ Open Health, in the Modelling & Meta-Analysis centre of excellence. 
 
 ## What am I good at?

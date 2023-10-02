@@ -20,4 +20,4 @@ Hello, I'm Matthew.
 * 📈  Data Analysis: This is the practical side of maths I have the most real world experience of. From simple linear regression all the way up to training neural networks, I love it all!
 * 💻  Programming languages: Python, R and C++ are the languages I have used the most, I also took a Java course at university.
 
-## Thank's for visiting!
+## Thanks for visiting!

@@ -4,7 +4,7 @@ Hello, I'm Matthew.
 
 ## Who am I? 
 
-* I am a statistician from Birmingham in the UK
+* I am a statistician from Birmingham in the UK.
 
 ## What do I do?
 
